@@ -111,7 +111,7 @@ class Triangle extends shape{
 
 
 public class MainActivity extends AppCompatActivity {
-
+   ////jgugug
     public EditText ShapeEditText, ColorEditText ;
     public Button button ;
     public TextView ShapeTextView , ColorTextView ;
